@@ -1,13 +1,17 @@
 Features
+
 **1.	Category CRUD Operations:**
 o	Create, Read, Update, and Delete categories.
 o	Supports server-side pagination for listing categories.
+
 **2.	Product CRUD Operations:**
 o	Create, Read, Update, and Delete products.
 o	Fetch a product with its associated category details.
 o	Supports server-side pagination for listing products.
+
 **3.	Category-Product Relationship:**
 o	A Category can have multiple Products (One-to-Many).
+
 **4.	Database Integration:**
 o	Configured to work with MySQL or any relational database.
 **Technologies Used**
